@@ -26,6 +26,15 @@ Flask app:
 Docker image:  
 ![alt text](imgs/lab3_4_2.jpg)  
 
+## Lab 3 - Activity 5  
+This section will describe one functional and one non-functional requirement of the system and how they could be improved.  
+
+### Functional Requirement - Search/Filter Function  
+Currently there is a filter function that allows the user to filter the search results by division, department or campus. Currently if the user adds a filter to restrict the courses by divison, department, or campus, with an empty search term, no results come up. To improve the search/filter functionality, can list all courses that fit under the division/department/campus if the user puts on a search filter but does not input any search terms. Additionally, can also improve the search term feature by providng autocomplete suggestions and allow for course code lookup.
+
+### Non-Functional Requirement - Usability
+Currently the system allows for users to filter searches for courses by course year, and also restrict by division, department or campus. However, this can be very cumbersome if users wanted to look for all courses matching a search term, regardless of course year. For example, if they wanted to search "drama" and get the results for 2nd, 3rd, and 4th year to plan out the remainder of their university degree, they would have to perform 3 individual searches to get the results they want.
+
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
 
