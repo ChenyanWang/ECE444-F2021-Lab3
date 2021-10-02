@@ -5,13 +5,19 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ## Lab 3 - Activity 1  
 Screenshot of docker version.  
-![alt text](imgs/lab4_1.jpg)  
+![alt text](imgs/lab3_1.jpg)  
 
 ## Lab 3 - Activity 2  
 Screenshot of cloned repo and updated readme.  
-![alt text](imgs/lab4_2_1.jpg)  
+![alt text](imgs/lab3_2_1.jpg)  
 Readme: 
-![alt text](imgs/lab4_2_2.jpg)  
+![alt text](imgs/lab3_2_2.jpg)  
+
+## Lab 3 - Activity 3  
+Screenshot of building the docker image.  
+![alt text](imgs/lab3_3_1.jpg)  
+Build log after docker image build is complete:  
+![alt text](imgs/lab3_3_2.jpg)  
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
