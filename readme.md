@@ -19,6 +19,13 @@ Screenshot of building the docker image.
 Build log after docker image build is complete:  
 ![alt text](imgs/lab3_3_2.jpg)  
 
+## Lab 3 - Activity 4  
+Screenshot of the flask app running and the docker image.  
+Flask app:  
+![alt text](imgs/lab3_4_1.jpg)  
+Docker image:  
+![alt text](imgs/lab3_4_2.jpg)  
+
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
 
